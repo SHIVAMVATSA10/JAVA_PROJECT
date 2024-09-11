@@ -4,9 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-/**
- * Created by Jarvis on 9/23/17.
- */
+
 public class Sudoku
 {
     public int[][] puz;
