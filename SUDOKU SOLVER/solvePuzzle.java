@@ -2,9 +2,7 @@ package Sudoku;
 
 import java.util.Scanner;
 
-/**
- * Created by Jarvis on 9/23/17.
- */
+
 public class solvePuzzle
 {
     private Sudoku sud;
